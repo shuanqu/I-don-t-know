@@ -1,0 +1,5 @@
+y=sin(x)
+plot(x,y)
+title('my name is title')
+xlabel('and my name is X'),ylabel('I am Y')
+text(0,0,'I am text,and I'm 0,0 for you')
